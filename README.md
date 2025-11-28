@@ -5,12 +5,10 @@ A lightweight and fully on-chain discount card system that allows merchants or d
 ---
 
 ## 📍 Contract Address  
-**`0x54db90E627d60Ab3220FB6685762771B1582c64F`**  
-Explorer (Tx): https://coston2-explorer.flare.network//tx/0xf5fe5a42e1a7e0422c763215f73c782e411dd42ce73319c01510abf43c6fce75
-
-**Updated Contract Address:**  
 **`0xCD62eCF30ed073F01997f092639b4e4eC0C7aCae`**  
 Explorer: https://coston2-explorer.flare.network/address/0xCD62eCF30ed073F01997f092639b4e4eC0C7aCae
+<img width="2018" height="839" alt="image" src="https://github.com/user-attachments/assets/b2b08fb5-487c-422c-b197-86bbe0e4f0e6" />
+
 
 ---
 
